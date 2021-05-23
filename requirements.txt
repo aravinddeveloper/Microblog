@@ -14,4 +14,4 @@ virtualenv==20.4.6
 virtualenv-clone==0.5.4
 Werkzeug==2.0.0
 gunicorn
-pymongo==3.11.4	
+pymongo[srv]
